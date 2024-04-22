@@ -1,0 +1,1 @@
+To replicate the usage of the frigo spell I installed and configured the server and client and modified the "Eternal Winter" spell on the spells.xml to be able to cast it using only "frigo" word and changed my character level and mana on database directly.
