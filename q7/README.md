@@ -1,0 +1,1 @@
+The best I could do on this was to create a modal window using the "modal_window_helper.lua" script that I got from the forums and create a button with the "Jump!" word on it using the test.lua script created on the scripts/talkactions folder.
